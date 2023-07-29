@@ -1,0 +1,1494 @@
+,신선도,신선도예측,신선도 정답 여부,종류,종류예측,종류 정답 여부,파일명
+0,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.44.24 PM.png
+1,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/558959_20210827_5_3_c7_1_2_13_1_84.jpg
+2,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0084.jpg
+3,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.22.35 PM.png
+4,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0110.jpg
+5,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0101.jpg
+6,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0267.jpg
+7,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/1102.jpg
+8,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.03.40 PM.png
+9,stale,fresh,False,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0435 (2).jpg
+10,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0130.jpg
+11,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0064.png
+12,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.05.41 PM(1).png
+13,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/490233_20211001_5_0_0_1_2_12_0_18.jpg
+14,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0017.jpg
+15,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.56.34 PM.png
+16,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.41.57 PM.png
+17,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.10.32 PM.png
+18,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/503877_20210802_5_2_b3_1_2_13_1_148.jpg
+19,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/WhatsApp Image 2020-11-07 at 11.30.46 PM.jpeg_0_575.jpg
+20,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.03.34 AM.png
+21,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.45.05 PM.png
+22,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.17.19 AM.png
+23,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0084.jpg
+24,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0255.png
+25,stale,fresh,False,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0081.jpg
+26,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/naver_0197.jpg
+27,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0054.jpg
+28,stale,fresh,False,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0009.jpg
+29,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.00.17 AM.png
+30,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0011.jpg
+31,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0238 (2).jpg
+32,stale,fresh,False,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/559819_20210831_5_3_c7_1_2_13_1_97.jpg
+33,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0231.jpg
+34,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.36.42 PM.png
+35,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0040.jpg
+36,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0283.jpg
+37,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0047.jpg
+38,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0119.jpg
+39,fresh,fresh,True,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0176.jpg
+40,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.25.18 PM.png
+41,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0156.jpg
+42,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0118.jpg
+43,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.03.34 PM.png
+44,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.19.01 PM.png
+45,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0055.jpg
+46,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.08.54 PM.png
+47,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.40.00 PM.png
+48,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/naver_0421.png
+49,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0253.jpg
+50,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0303.jpg
+51,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.10.27 PM.png
+52,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0171.jpg
+53,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0208.jpg
+54,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0255.jpg
+55,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0125.jpg
+56,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0208.jpg
+57,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0027.jpg
+58,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0186.jpg
+59,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0102.jpg
+60,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0013.jpg
+61,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.47.08 PM.png
+62,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0014.jpg
+63,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/capsicum3_7.jpg_0_522.jpg
+64,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.45.15 PM.png
+65,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0103.jpg
+66,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0024.jpg
+67,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.34.18 PM.png
+68,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.22.39 PM.png
+69,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0574.jpg
+70,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.20.56 PM.png
+71,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0226.jpg
+72,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.17.37 AM.png
+73,fresh,fresh,True,pepper,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/490281_20211001_5_0_0_1_2_12_0_66.jpg
+74,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.27.27 PM.png
+75,stale,fresh,False,capsicum,banana,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220602_084923.jpg
+76,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.36.35 PM.png
+77,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0315.jpg
+78,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.01.54 PM.png
+79,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.39.00 PM.png
+80,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.57.38 PM.png
+81,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0281.jpg
+82,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.16.06 PM.png
+83,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0372.jpg
+84,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.52.09 PM.png
+85,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0434.jpg
+86,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0189.jpg
+87,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0078.jpg
+88,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/1396.jpg
+89,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.01.32 AM.png
+90,stale,fresh,False,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/stock-photo-stale-cherry-tomatoes-on-a-gray-background-1232904850.jpg
+91,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0037.jpg
+92,stale,fresh,False,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/DSCN4238.jpg_0_166.jpg
+93,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091041.jpg
+94,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0098.jpg
+95,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.52.45 PM.png
+96,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0381.jpg
+97,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.04.49 PM.png
+98,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0194.jpg
+99,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.01.23 AM.png
+100,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0160.jpg
+101,stale,fresh,False,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/142502444.jpg
+102,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/559460_20210830_5_3_c7_1_2_13_1_36.jpg
+103,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0228.png
+104,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0121.jpg
+105,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0218.jpg
+106,fresh,fresh,True,cherryTomato,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_040.jpg
+107,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0092.jpg
+108,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.59.13 PM.png
+109,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0393.jpg
+110,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.23.23 PM.png
+111,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0322.jpg
+112,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504758_20210805_5_2_b3_1_2_13_1_446.jpg
+113,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.05.20 PM.png
+114,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.15.13 AM.png
+115,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.45.35 PM.png
+116,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0100.jpg
+117,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.04.01 PM.png
+118,stale,fresh,False,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.30.16 PM.png
+119,stale,fresh,False,pepper,capsicum,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/557409_20210809_5_1_a7_1_2_13_1_41.jpg
+120,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091338.jpg
+121,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.00.56 PM.png
+122,fresh,fresh,True,strawberry,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0240.jpg
+123,fresh,fresh,True,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0135.jpg
+124,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.26.24 PM.png
+125,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.07.39 AM.png
+126,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.25.54 PM.png
+127,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_007.jpg
+128,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.56.54 PM.png
+129,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094233.jpg
+130,fresh,fresh,True,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_042.jpg
+131,fresh,fresh,True,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/0939.jpg
+132,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0042.jpg
+133,fresh,fresh,True,apple,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0050.jpg
+134,fresh,fresh,True,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0000.jpg
+135,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0151.jpg
+136,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0434.png
+137,stale,fresh,False,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0143.jpg
+138,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0099.jpg
+139,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0410.jpg
+140,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.02.37 PM.png
+141,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.58.28 PM.png
+142,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0211.jpg
+143,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0434.jpg
+144,stale,fresh,False,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/•Rotten-tomatoes.jpg
+145,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0273.jpg
+146,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0426.jpg
+147,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0256.jpg
+148,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/WhatsApp Image 2020-11-07 at 11.43.17 PM.jpeg_0_33.jpg
+149,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0206.jpg
+150,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0165.jpg
+151,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0020.jpg
+152,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.47.51 PM.png
+153,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/556855_20210730_5_1_a7_1_2_13_1_62.jpg
+154,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.28.23 PM.png
+155,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/gettyimages-726854305-612x612.jpg
+156,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0045.jpg
+157,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0423.jpg
+158,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.07.04 PM.png
+159,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094214.jpg
+160,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.51.47 PM.png
+161,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.53.09 PM.png
+162,stale,fresh,False,capsicum,banana,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220602_084924.jpg
+163,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.36.55 PM.png
+164,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0193.jpg
+165,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0196.jpg
+166,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0219.png
+167,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.32.43 PM.png
+168,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0154.jpg
+169,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.37.07 PM.png
+170,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0160.jpg
+171,fresh,fresh,True,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_012.jpg
+172,fresh,fresh,True,broccoli,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0015.jpg
+173,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0010.jpg
+174,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.31.08 PM.png
+175,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0213.jpg
+176,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_029.jpg
+177,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0210.jpg
+178,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.02.48 PM.png
+179,fresh,fresh,True,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0023.jpg
+180,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.28.12 PM.png
+181,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.21.48 PM.png
+182,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/0033.jpg
+183,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0267.jpg
+184,fresh,fresh,True,strawberry,grape,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0013.jpg
+185,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0001.jpg
+186,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0112.jpg
+187,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/505043_20210809_5_2_b3_1_2_13_1_20210809_5_2_b3_1_2_13_1_267.jpg
+188,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0099.jpg
+189,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0009.jpg
+190,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.16.54 AM.png
+191,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.03.38 PM.png
+192,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0005.jpg
+193,fresh,fresh,True,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/0454.jpg
+194,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094043.jpg
+195,stale,fresh,False,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/Copy of IMG_20200727_223202.jpg_0_60.jpg
+196,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0063.jpg
+197,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0229.jpg
+198,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0056 (2).jpg
+199,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0023.jpg
+200,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0334.jpg
+201,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0003.jpg
+202,stale,fresh,False,orange,banana,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.24.43 PM.png
+203,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0249.jpg
+204,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0219.jpg
+205,stale,fresh,False,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/inline_image_preview.jpg
+206,stale,fresh,False,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/esy-029989526.jpg
+207,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.22.21 PM.png
+208,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0105.jpg
+209,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0195.jpg
+210,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0189.png
+211,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.52.22 PM.png
+212,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.17.33 PM.png
+213,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0292.jpg
+214,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20220531_092252.jpg
+215,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0009.jpg
+216,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0071.jpg
+217,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/istockphoto-1371425721-612x612.jpg
+218,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504923_20210809_5_2_b3_1_2_13_1_147.jpg
+219,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0057.jpg
+220,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091032.jpg
+221,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.51.45 PM.png
+222,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.38.28 PM.png
+223,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.42.38 PM.png
+224,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0565.jpg
+225,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.08.37 PM.png
+226,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/rotten-moldy-orange-1224084.jpg
+227,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0039 (2).jpg
+228,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20220530_085255.jpg
+229,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0067.jpg
+230,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0210.jpg
+231,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0437.jpg
+232,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.00.54 AM.png
+233,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/1000_F_325707270_IvG4KonbL89svdwefYsI4TR8TRYoZu6h.jpg
+234,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0222.jpg
+235,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.14.09 AM.png
+236,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.39.22 PM.png
+237,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.08.29 AM.png
+238,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.51.13 PM(1).png
+239,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0320.jpg
+240,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20220530_085258.jpg
+241,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.56.55 PM.png
+242,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/depositphotos_232035064-stock-photo-group-mouldy-rotten-mandarins-isolated.jpg
+243,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/capsicum3_9.jpg_0_341.jpg
+244,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0173.jpg
+245,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.02.15 PM.png
+246,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0081.jpg
+247,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/naver_0203.jpg
+248,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0520.jpg
+249,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0096.jpg
+250,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091103.jpg
+251,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.55.27 PM.png
+252,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/557229_20210806_5_1_a7_1_2_13_1_1.jpg
+253,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.14.22 PM.png
+254,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.06.33 PM.png
+255,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.06.10 PM.png
+256,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0229.jpg
+257,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.08.58 AM.png
+258,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.47.35 PM.png
+259,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.26.18 PM.png
+260,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.39.13 PM.png
+261,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0024.jpg
+262,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0181.jpg
+263,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.15.39 PM.png
+264,fresh,fresh,True,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0098.jpg
+265,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0380.jpg
+266,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.01.09 PM.png
+267,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0170.jpg
+268,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0181.jpg
+269,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0120.jpg
+270,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.03.55 AM.png
+271,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.33.47 PM.png
+272,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0033.jpg
+273,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0558.jpg
+274,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0024.jpg
+275,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0015.jpg
+276,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0252.jpg
+277,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504998_20210809_5_2_b3_1_2_13_1_20210809_5_2_b3_1_2_13_1_222.jpg
+278,fresh,fresh,True,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0178.jpg
+279,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0137.jpg
+280,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0011.jpg
+281,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.54.14 PM.png
+282,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.48.15 PM.png
+283,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0227.jpg
+284,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0180.jpg
+285,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0217.jpg
+286,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.03.02 PM.png
+287,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0014.jpg
+288,fresh,fresh,True,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/capsicum3_0.jpg_0_277.jpg
+289,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/0455.jpg
+290,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0105.jpg
+291,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.07.52 PM.png
+292,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0040.jpg
+293,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0010.jpg
+294,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0111.jpg
+295,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0100.jpg
+296,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0195.jpg
+297,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0169.jpg
+298,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0086.jpg
+299,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0357.jpg
+300,stale,fresh,False,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/naver_0045.jpg
+301,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.36.14 PM.png
+302,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0199.jpg
+303,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.33.55 PM.png
+304,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20220531_092308.jpg
+305,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.10.43 PM.png
+306,stale,fresh,False,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0080 (2).jpg
+307,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0110.jpg
+308,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0291.jpg
+309,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0141.jpg
+310,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.03.17 PM.png
+311,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0044.jpg
+312,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20200822_223854.jpg_0_489.jpg
+313,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.22.58 PM.png
+314,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0028.jpg
+315,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0033.jpg
+316,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/WhatsApp Image 2020-11-07 at 11.30.47 PM.jpg_0_9123.jpg
+317,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0093.jpg
+318,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0027.jpg
+319,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0037.jpg
+320,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/naver_0035.jpg
+321,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.43.26 PM.png
+322,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.05.12 PM.png
+323,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.33.27 PM.png
+324,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0045.jpg
+325,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0215.jpg
+326,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.54.02 PM.png
+327,stale,fresh,False,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0062.jpg
+328,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0035.jpg
+329,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.20.29 PM.png
+330,stale,fresh,False,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/istockphoto-157570346-612x612.jpg
+331,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.46.10 PM.png
+332,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0283.jpg
+333,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0073.jpg
+334,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.47.18 PM.png
+335,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.33.06 PM.png
+336,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.00.17 PM.png
+337,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.01.46 PM.png
+338,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20200901_181736.jpg_0_493.jpg
+339,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.19.37 PM.png
+340,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0196.jpg
+341,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.28.04 PM.png
+342,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504653_20210805_5_2_b3_1_2_13_1_341.jpg
+343,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.00.35 PM.png
+344,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.43.54 PM.png
+345,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0031.jpg
+346,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0107.jpg
+347,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.28.00 PM.png
+348,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0277.jpg
+349,stale,fresh,False,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/339282034.jpg
+350,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0313.jpg
+351,stale,fresh,False,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/tomato-bottom-end-rot.jpg
+352,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220606_095122.jpg
+353,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.16.47 PM.png
+354,fresh,fresh,True,orange,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0081.jpg
+355,stale,fresh,False,grape,apple,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0354.jpg
+356,stale,fresh,False,apple,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_apple/naver_0096.jpg
+357,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0278.jpg
+358,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0225.jpg
+359,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0141.jpg
+360,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.13.45 PM.png
+361,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0140.jpg
+362,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0255.jpg
+363,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0177.jpg
+364,stale,fresh,False,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/7f16d91d4bac7c7855fd9db253c7e825.jpg
+365,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0043.jpg
+366,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.58.49 PM.png
+367,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0314.jpg
+368,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0042.jpg
+369,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0159.png
+370,fresh,fresh,True,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0092.jpg
+371,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0067.jpg
+372,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0338.jpg
+373,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.26.28 PM.png
+374,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0359.jpg
+375,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.27.31 PM.png
+376,stale,fresh,False,pepper,banana,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0074.jpg
+377,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0098.jpg
+378,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0046.jpg
+379,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0294.jpg
+380,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.42.58 PM.png
+381,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0001.jpg
+382,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0010.jpg
+383,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.59.09 PM.png
+384,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0072.jpg
+385,stale,fresh,False,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_orange/naver_0364.jpg
+386,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0009.jpg
+387,stale,fresh,False,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/naver_0032.jpg
+388,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.23.07 PM.png
+389,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.27.56 PM.png
+390,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0096.jpg
+391,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504548_20210805_5_2_b3_1_2_13_1_236.jpg
+392,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.12.29 PM.png
+393,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0164.jpg
+394,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0101.jpg
+395,fresh,fresh,True,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0128.jpg
+396,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0381.jpg
+397,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0367.jpg
+398,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/556935_20210802_5_1_a7_1_2_13_1_53.jpg
+399,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.28.33 PM.png
+400,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0090.jpg
+401,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0106.jpg
+402,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0320.jpg
+403,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.49.32 PM.png
+404,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0114.jpg
+405,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0008.jpg
+406,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/94435762-citrus-fruit-is-spoiled-rotten-mandarin-with-a-mold-on-a-white-background-copy-space-close-up-.jpg
+407,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0165.jpg
+408,stale,fresh,False,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0319.jpg
+409,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0100.jpg
+410,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0319.jpg
+411,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0223.jpg
+412,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.59.23 PM.png
+413,fresh,fresh,True,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0238.jpg
+414,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/Copy of IMG_20200727_223202.jpg_0_789.jpg
+415,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094150.jpg
+416,fresh,fresh,True,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0046.jpg
+417,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.06.47 PM.png
+418,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0288.jpg
+419,fresh,fresh,True,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0032.jpg
+420,stale,fresh,False,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.29.03 PM.png
+421,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.37.53 PM.png
+422,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.48.18 PM.png
+423,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.05.46 PM.png
+424,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0341.jpg
+425,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0273.jpg
+426,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/istockphoto-1226808018-612x612.jpg
+427,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0311.jpg
+428,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0010.png
+429,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0069.jpg
+430,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0023.jpg
+431,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0254.png
+432,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.25.43 PM.png
+433,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0400.jpg
+434,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0145.jpg
+435,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0239.jpg
+436,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220606_095159.jpg
+437,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0133.png
+438,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0186.jpg
+439,fresh,fresh,True,pepper,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0353.jpg
+440,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/5922b828176b1.jpg
+441,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0422.jpg
+442,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/naver_0474.jpg
+443,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.10.04 PM.png
+444,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0058.jpg
+445,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.10.37 PM.png
+446,stale,fresh,False,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/326911652659536632.jpg
+447,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.46.19 PM.png
+448,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.34.49 PM.png
+449,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.06.51 PM.png
+450,stale,fresh,False,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/Copy of IMG_20200727_223202.jpg_0_892.jpg
+451,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504105_20210802_5_2_b3_1_2_13_1_223.jpg
+452,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0453.jpg
+453,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.25.04 PM.png
+454,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0325.jpg
+455,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0018.jpg
+456,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0154.png
+457,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0146.jpg
+458,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0263.jpg
+459,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0131.jpg
+460,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0037.jpg
+461,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0125.jpg
+462,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0023.jpg
+463,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.11.52 PM.png
+464,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.34.07 PM.png
+465,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.16.37 PM.png
+466,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.37.31 PM.png
+467,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0265.jpg
+468,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.05.48 PM.png
+469,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/490239_20211001_5_0_0_1_2_12_0_24.jpg
+470,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0472.jpg
+471,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.06.43 AM.png
+472,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0017.jpg
+473,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0042.jpg
+474,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0067.jpg
+475,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0099.jpg
+476,fresh,fresh,True,apple,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0031.jpg
+477,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.42.05 PM.png
+478,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.45.50 PM.png
+479,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.18.57 PM.png
+480,fresh,fresh,True,cherryTomato,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0296.jpg
+481,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0163.jpg
+482,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.54.35 PM.png
+483,fresh,fresh,True,apple,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0018.jpg
+484,fresh,fresh,True,cherryTomato,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0087.jpg
+485,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0022.jpg
+486,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/557894_20210825_5_1_a7_1_2_13_1_84.jpg
+487,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0269.jpg
+488,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0050.jpg
+489,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0017.jpg
+490,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0216.jpg
+491,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0338.jpg
+492,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.08.52 PM.png
+493,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.29.31 PM.png
+494,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.57.17 PM.png
+495,stale,fresh,False,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/depositphotos_64665523-stock-photo-single-mouldy-and-rotten-orange.jpg
+496,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.51.01 PM.png
+497,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.06.56 PM.png
+498,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.58.11 PM.png
+499,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0235.jpg
+500,fresh,fresh,True,strawberry,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0118.jpg
+501,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0037.jpg
+502,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0150.jpg
+503,fresh,fresh,True,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0193.jpg
+504,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0247.jpg
+505,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0000.jpg
+506,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0149.jpg
+507,stale,fresh,False,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0013.jpg
+508,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220606_095116.jpg
+509,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0292.jpg
+510,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/naver_0201.jpg
+511,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0004.jpg
+512,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.45.57 PM.png
+513,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0174.jpg
+514,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0061.jpg
+515,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0456.jpg
+516,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.24.46 PM.png
+517,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094232.jpg
+518,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.17.04 PM.png
+519,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0196.jpg
+520,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.58.18 PM.png
+521,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.03.31 PM.png
+522,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0185.jpg
+523,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0098.jpg
+524,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.50.55 PM.png
+525,stale,fresh,False,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0224.jpg
+526,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.48.29 PM.png
+527,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0047.jpg
+528,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0014 (2).jpg
+529,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.10.37 PM.png
+530,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.55.53 PM.png
+531,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.16.33 AM.png
+532,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0278.jpg
+533,fresh,fresh,True,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0091.jpg
+534,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.00.31 PM.png
+535,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0178.jpg
+536,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0322.jpg
+537,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0181.jpg
+538,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.42.10 PM.png
+539,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.36.48 PM.png
+540,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0015.jpg
+541,fresh,fresh,True,mandarin,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0034.jpg
+542,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0206.jpg
+543,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0021.jpg
+544,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0017.jpg
+545,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0289.jpg
+546,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0128.jpg
+547,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504075_20210802_5_2_b3_1_2_13_1_193.jpg
+548,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/naver_0089.jpg
+549,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0169.jpg
+550,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.20.42 PM.png
+551,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0133.jpg
+552,stale,fresh,False,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0056.jpg
+553,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_093928.jpg
+554,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0219.jpg
+555,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.27.26 PM.png
+556,stale,fresh,False,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0025.jpg
+557,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0207.jpg
+558,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.44.06 PM.png
+559,stale,fresh,False,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/1000_F_471836926_GZ8WH7yMEL262GyfeqLvZ0nFTgHLvayy.jpg
+560,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0235.jpg
+561,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0143.jpg
+562,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0059.jpg
+563,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0365.jpg
+564,fresh,fresh,True,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/0981.jpg
+565,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0406.jpg
+566,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.57.46 PM.png
+567,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.13.04 PM.png
+568,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0334.jpg
+569,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0321.jpg
+570,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504713_20210805_5_2_b3_1_2_13_1_401.jpg
+571,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20200822_223846.jpg_0_149.jpg
+572,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.03.59 PM.png
+573,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0048.jpg
+574,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.57.42 PM.png
+575,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.28.00 PM.png
+576,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.40.38 PM.png
+577,stale,fresh,False,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0155.jpg
+578,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0114.jpg
+579,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0304.jpg
+580,fresh,fresh,True,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0157.jpg
+581,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0384.jpg
+582,fresh,fresh,True,orange,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0092.jpg
+583,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0037.jpg
+584,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0413.jpg
+585,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0254.jpg
+586,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0165.jpg
+587,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0239.jpg
+588,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.19.37 PM.png
+589,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0267.jpg
+590,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.48.04 PM.png
+591,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0051.jpg
+592,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504150_20210802_5_2_b3_1_2_13_1_268.jpg
+593,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/Unknown 복사본 3.jpeg
+594,fresh,fresh,True,pepper,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0365.jpg
+595,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0017.jpg
+596,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0242.jpg
+597,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.03.06 PM.png
+598,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.42.20 PM.png
+599,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.20.32 PM.png
+600,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.44.30 PM.png
+601,fresh,fresh,True,cherryTomato,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_025.jpg
+602,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.58.30 PM.png
+603,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504938_20210809_5_2_b3_1_2_13_1_162.jpg
+604,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.40.22 PM.png
+605,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0253.jpg
+606,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0240.jpg
+607,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0203.jpg
+608,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0238.jpg
+609,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.54.20 PM.png
+610,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0300.jpg
+611,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0289.jpg
+612,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.54.48 PM.png
+613,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.43.13 PM.png
+614,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0611.jpg
+615,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0044.jpg
+616,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.06.27 PM.png
+617,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0077.jpg
+618,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0098 (2).jpg
+619,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0162.jpg
+620,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/naver_0012.jpg
+621,fresh,fresh,True,strawberry,grape,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0192.jpg
+622,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.27.46 PM.png
+623,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0321.jpg
+624,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0197.jpg
+625,stale,fresh,False,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0237.jpg
+626,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.56.37 PM.png
+627,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0044.jpg
+628,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/Copy of IMG_20200802_134638.jpg_0_9893.jpg
+629,stale,fresh,False,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_orange/naver_0005.jpg
+630,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0320.jpg
+631,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0081.jpg
+632,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/naver_0042.jpg
+633,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0002.jpg
+634,stale,fresh,False,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/depositphotos_239895188-stock-photo-two-rotten-oranges-one-dry.jpg
+635,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0270.jpg
+636,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.54.58 PM.png
+637,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/1000_F_240607008_2K6m9AoyZwEcgecAavfKnok6ipruANG3.jpg
+638,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.18.57 PM.png
+639,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0247.jpg
+640,stale,fresh,False,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/close-up-of-a-rotten-mandarin-on-a-wooden-background-HPHD02.jpg
+641,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0006.jpg
+642,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/559786_20210831_5_3_c7_1_2_13_1_64.jpg
+643,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.07.08 PM.png
+644,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/naver_0047.jpg
+645,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.09.14 AM.png
+646,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/Copy of IMG_20200801_191346.jpg_0_463.jpg
+647,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0047.jpg
+648,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/c5499add3c4bafeaeaf3d10198749df8.jpg
+649,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.40.43 PM.png
+650,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0218.jpg
+651,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.42.41 PM.png
+652,fresh,fresh,True,apple,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0023.jpg
+653,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0057.png
+654,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0504.jpg
+655,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0214.jpg
+656,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.23.26 PM.png
+657,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0342.jpg
+658,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0212.jpg
+659,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0304.jpg
+660,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0079.jpg
+661,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0113.jpg
+662,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091240.jpg
+663,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.47.46 PM.png
+664,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.59.35 PM.png
+665,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.19.08 PM.png
+666,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.04.35 PM.png
+667,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.25.38 PM.png
+668,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0262.jpg
+669,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.05.35 PM(1).png
+670,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0284.jpg
+671,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0179.jpg
+672,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0506.jpg
+673,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.39.35 PM.png
+674,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0291.jpg
+675,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.09.49 AM.png
+676,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.49.40 PM.png
+677,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.40.42 PM.png
+678,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0058.jpg
+679,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0104.jpg
+680,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0192.jpg
+681,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.34.01 PM.png
+682,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091010.jpg
+683,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504060_20210802_5_2_b3_1_2_13_1_178.jpg
+684,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0275.jpg
+685,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.59.48 PM.png
+686,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0346.jpg
+687,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.13.24 AM.png
+688,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0081.jpg
+689,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0059.jpg
+690,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0350.jpg
+691,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0038.jpg
+692,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0177.jpg
+693,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.21.05 PM.png
+694,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/naver_0003.png
+695,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.59.51 PM.png
+696,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.15.08 AM.png
+697,stale,fresh,False,capsicum,banana,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094054.jpg
+698,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.52.26 PM.png
+699,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0030.jpg
+700,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.01.58 AM.png
+701,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220606_095128.jpg
+702,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0080.jpg
+703,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0151.jpg
+704,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0014.jpg
+705,fresh,fresh,True,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0260.jpg
+706,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.17.32 PM.png
+707,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0090.jpg
+708,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0102.jpg
+709,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0098.jpg
+710,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0258.jpg
+711,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.37.13 PM.png
+712,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0104.jpg
+713,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0043.jpg
+714,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0184.jpg
+715,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.13.31 PM.png
+716,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.42.35 PM.png
+717,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0329.jpg
+718,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0005.jpg
+719,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0342.jpg
+720,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.47.28 PM.png
+721,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.06.24 PM.png
+722,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.30.31 PM.png
+723,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0086.jpg
+724,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20220531_092305.jpg
+725,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.13.29 AM.png
+726,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0329.jpg
+727,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0335.jpg
+728,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0103.jpg
+729,stale,fresh,False,grape,apple,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0032.jpg
+730,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0145.jpg
+731,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0129.jpg
+732,stale,fresh,False,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_orange/naver_0016.png
+733,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0118.jpg
+734,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.13.21 PM.png
+735,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091112.jpg
+736,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0157.jpg
+737,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/tomato1_6.jpg_0_143.jpg
+738,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/naver_0076.jpg
+739,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0238.jpg
+740,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.57.34 PM.png
+741,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/556968_20210802_5_1_a7_1_2_13_1_86.jpg
+742,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0188.jpg
+743,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220604_093849.jpg
+744,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0010.jpg
+745,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.51.02 PM.png
+746,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0373.jpg
+747,fresh,fresh,True,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0053.jpg
+748,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.47.37 PM.png
+749,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.41.43 PM.png
+750,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0298.jpg
+751,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0132.jpg
+752,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/istockphoto-1083252366-1024x1024.jpg
+753,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0322.jpg
+754,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0011.jpg
+755,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/1302840328.jpg
+756,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0078.jpg
+757,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.52.51 PM.png
+758,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/naver_0079.jpg
+759,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.33.23 PM.png
+760,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0133.jpg
+761,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.23.10 PM.png
+762,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.06.07 PM.png
+763,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0348.jpg
+764,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.17.34 PM.png
+765,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/tomato1_38.jpg_0_20.jpg
+766,fresh,fresh,True,apple,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0013.jpg
+767,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.06.28 AM.png
+768,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0176.jpg
+769,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0048.jpg
+770,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0182.jpg
+771,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.58.02 PM.png
+772,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0038.jpg
+773,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0185.jpg
+774,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0252.jpg
+775,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.34.13 PM(1).png
+776,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 4.59.44 PM.png
+777,fresh,fresh,True,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0133.jpg
+778,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0031.jpg
+779,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0251.jpg
+780,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.17.51 AM.png
+781,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0542.jpg
+782,stale,fresh,False,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/naver_0254.jpg
+783,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0139.png
+784,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0283.jpg
+785,fresh,fresh,True,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0097.jpg
+786,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0141.jpg
+787,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091020.jpg
+788,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0383.jpg
+789,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0406.jpg
+790,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0039.jpg
+791,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.53.29 PM.png
+792,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0053.jpg
+793,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0033.jpg
+794,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0164.jpg
+795,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0315.jpg
+796,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0099.jpg
+797,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0128.jpg
+798,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0004.jpg
+799,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0316.jpg
+800,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.20.06 AM.png
+801,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.04.42 PM.png
+802,stale,fresh,False,pepper,banana,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0360.jpg
+803,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0289.jpg
+804,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0113.jpg
+805,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0009.jpg
+806,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.48.14 PM.png
+807,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0227.jpg
+808,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0042.jpg
+809,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.46.44 PM.png
+810,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.07.13 PM.png
+811,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0261.jpg
+812,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0057.jpg
+813,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/557647_20210819_5_1_a7_1_2_13_1_72.jpg
+814,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0273.jpg
+815,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0589.jpg
+816,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0293.jpg
+817,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.37.58 PM.png
+818,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.41.04 PM.png
+819,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.53.12 PM.png
+820,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0289.jpg
+821,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.53.46 PM.png
+822,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0113.jpg
+823,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.40.28 PM.png
+824,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0540.jpg
+825,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094300.jpg
+826,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0130.jpg
+827,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0292.jpg
+828,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.39.28 PM.png
+829,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0317.jpg
+830,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/503847_20210802_5_2_b3_1_2_13_1_118.jpg
+831,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0373.jpg
+832,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0097.jpg
+833,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.05.07 PM(1).png
+834,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.51.08 PM(1).png
+835,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0259.jpg
+836,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0007.jpg
+837,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0211.jpg
+838,fresh,fresh,True,strawberry,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0228.jpg
+839,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091429.jpg
+840,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0050.jpg
+841,stale,fresh,False,orange,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.31.52 PM.png
+842,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.48.54 PM.png
+843,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.59.02 PM.png
+844,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.10.16 AM.png
+845,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0214.jpg
+846,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0301.jpg
+847,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0419.jpg
+848,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0231.jpg
+849,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.07.17 AM.png
+850,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0310.jpg
+851,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0364.jpg
+852,fresh,fresh,True,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_020.jpg
+853,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094112.jpg
+854,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0110.jpg
+855,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0013.jpg
+856,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0232.jpg
+857,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0182.jpg
+858,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0234.jpg
+859,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0335.jpg
+860,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/557813_20210825_5_1_a7_1_2_13_1_3.jpg
+861,fresh,fresh,True,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/DSCN4172.jpg_0_311.jpg
+862,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0451.jpg
+863,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0155.jpg
+864,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/505118_20210810_5_2_b3_1_2_13_1_12.jpg
+865,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.03.21 PM.png
+866,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0077.jpg
+867,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0187.jpg
+868,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.56.30 PM.png
+869,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094254.jpg
+870,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0393.jpg
+871,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.46.17 PM.png
+872,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0145.jpg
+873,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0004.jpg
+874,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.05.13 AM.png
+875,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0032.jpg
+876,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0094.jpg
+877,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0131.jpg
+878,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0500.jpg
+879,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0379.jpg
+880,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.59.19 PM.png
+881,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0346.jpg
+882,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.29.13 PM.png
+883,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0085.jpg
+884,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0129.jpg
+885,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0603.jpg
+886,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.04.41 PM.png
+887,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0072.jpg
+888,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0036.jpg
+889,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.39.53 PM.png
+890,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0064.png
+891,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0046.jpg
+892,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/istockphoto-154149647-1024x1024.jpg
+893,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0333.jpg
+894,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0193.jpg
+895,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/557393_20210809_5_1_a7_1_2_13_1_25.jpg
+896,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0179.jpg
+897,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.26.21 PM.png
+898,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0091.jpg
+899,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0023.jpg
+900,fresh,fresh,True,apple,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0036.jpg
+901,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0212.jpg
+902,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_090904.jpg
+903,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0316.jpg
+904,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.56.21 PM.png
+905,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0029.jpg
+906,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.10.45 AM.png
+907,fresh,fresh,True,pepper,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0035.jpg
+908,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.44.06 PM.png
+909,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504968_20210809_5_2_b3_1_2_13_1_20210809_5_2_b3_1_2_13_1_192.jpg
+910,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0015.jpg
+911,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0022 (2).jpg
+912,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.01.36 AM.png
+913,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.05.53 PM.png
+914,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.56.20 PM.png
+915,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/556425_20210729_5_1_a7_1_2_13_1_84.jpg
+916,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0396.jpg
+917,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0048.jpg
+918,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0180.jpg
+919,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0285.jpg
+920,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.56.48 PM.png
+921,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0105.jpg
+922,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.45.22 PM.png
+923,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0247.jpg
+924,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0056.jpg
+925,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0294.jpg
+926,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0423.jpg
+927,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.24.12 PM.png
+928,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.56.02 PM.png
+929,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/capsicum3_3.jpg_0_299.jpg
+930,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0226.jpg
+931,fresh,fresh,True,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/DSCN4069.jpg_0_76.jpg
+932,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0055.jpg
+933,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0264.jpg
+934,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.07.52 PM.png
+935,fresh,fresh,True,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/DSCN4142.jpg_0_181.jpg
+936,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0155.jpg
+937,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091121.jpg
+938,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0496.jpg
+939,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0012.jpg
+940,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0038.jpg
+941,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0006.jpg
+942,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.38.49 PM.png
+943,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.04.59 PM.png
+944,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.37.24 PM.png
+945,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.46.52 PM.png
+946,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.47.49 PM.png
+947,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0254.jpg
+948,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/Day3.jpg_0_9.jpg
+949,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0510.jpg
+950,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.19.47 PM.png
+951,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0419.jpg
+952,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0201.jpg
+953,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094236.jpg
+954,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0159.jpg
+955,fresh,fresh,True,pepper,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0305.jpg
+956,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0294.jpg
+957,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0240.jpg
+958,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0131.jpg
+959,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/Copy of IMG_20200727_223202.jpg_0_1680.jpg
+960,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0259.jpg
+961,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/naver_0250.jpg
+962,fresh,fresh,True,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0077.jpg
+963,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0265.jpg
+964,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.35.10 PM.png
+965,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0077.jpg
+966,fresh,fresh,True,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0119.jpg
+967,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0064.jpg
+968,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.09.47 PM.png
+969,stale,fresh,False,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/Copy of IMG_20200730_170244.jpg_0_130.jpg
+970,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/503892_20210802_5_2_b3_1_2_13_1_163.jpg
+971,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0354.jpg
+972,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0074.jpg
+973,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/naver_0158.jpg
+974,stale,fresh,False,cherryTomato,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/DSCN4209.jpg_0_112.jpg
+975,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0317.jpg
+976,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/naver_0481.jpg
+977,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.08.26 PM.png
+978,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0061.jpg
+979,stale,fresh,False,mandarin,mandarin,True,/Users/jongya/Desktop/data/data/archive/stale_mandarin/235120516.jpg
+980,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/istockphoto-1310320966-612x612.jpg
+981,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.23.24 PM.png
+982,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0227.jpg
+983,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.36.18 PM.png
+984,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.17.10 PM.png
+985,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0221.jpg
+986,fresh,fresh,True,banana,grape,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0021.jpg
+987,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/naver_0174.jpg
+988,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0027.jpg
+989,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0002.jpg
+990,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504441_20210805_5_2_b3_1_2_13_1_129.jpg
+991,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.02.18 PM.png
+992,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0183.jpg
+993,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0469.jpg
+994,fresh,fresh,True,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0048.jpg
+995,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/490257_20211001_5_0_0_1_2_12_0_42.jpg
+996,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.01.32 PM.png
+997,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0153.jpg
+998,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0127.jpg
+999,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.32.50 PM.png
+1000,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0320.jpg
+1001,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.06.28 PM.png
+1002,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.12.40 PM.png
+1003,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0080.jpg
+1004,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0460.jpg
+1005,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0006.jpg
+1006,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/556409_20210729_5_1_a7_1_2_13_1_68.jpg
+1007,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.53.03 PM.png
+1008,stale,fresh,False,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0156.jpg
+1009,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0120.jpg
+1010,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.05.54 PM.png
+1011,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.22.41 PM.png
+1012,fresh,fresh,True,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0038.jpg
+1013,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.38.59 PM.png
+1014,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0044.jpg
+1015,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0201.jpg
+1016,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0008.jpg
+1017,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0109.jpg
+1018,fresh,fresh,True,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/DSCN4158.jpg_0_36.jpg
+1019,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0020.jpg
+1020,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0311.jpg
+1021,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0003.jpg
+1022,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.00.07 PM.png
+1023,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0062.jpg
+1024,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.38.52 PM.png
+1025,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0221.jpg
+1026,fresh,fresh,True,cherryTomato,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_024.jpg
+1027,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0368.jpg
+1028,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0002.jpg
+1029,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0385.jpg
+1030,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0179.jpg
+1031,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.58.04 PM.png
+1032,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0339.jpg
+1033,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0371.jpg
+1034,fresh,fresh,True,orange,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0139.jpg
+1035,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.41.26 PM.png
+1036,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0133.jpg
+1037,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0115.jpg
+1038,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0272.jpg
+1039,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.08.59 PM.png
+1040,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20220531_092319.jpg
+1041,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.26.13 PM.png
+1042,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0070.jpg
+1043,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.13.28 PM.png
+1044,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0044.jpg
+1045,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.09.43 PM.png
+1046,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0016.jpg
+1047,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0114.jpg
+1048,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0197.jpg
+1049,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.45.58 PM.png
+1050,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0094.jpg
+1051,stale,fresh,False,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0125.jpg
+1052,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0046.jpg
+1053,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0070.jpg
+1054,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0328.jpg
+1055,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.04.47 PM.png
+1056,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.32.41 PM.png
+1057,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0022.jpg
+1058,fresh,fresh,True,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0076.jpg
+1059,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.32.38 PM.png
+1060,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0251.jpg
+1061,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.38.54 PM.png
+1062,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0311.jpg
+1063,fresh,fresh,True,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0129.jpg
+1064,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0533.jpg
+1065,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0036.jpg
+1066,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.43.31 PM.png
+1067,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.09.10 PM.png
+1068,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.42.49 PM.png
+1069,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.40.02 PM.png
+1070,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0099.jpg
+1071,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0472.jpg
+1072,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/556887_20210802_5_1_a7_1_2_13_1_5.jpg
+1073,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_090856.jpg
+1074,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/naver_0080.jpg
+1075,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0068.jpg
+1076,fresh,fresh,True,strawberry,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0217.jpg
+1077,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/b2550145-800px-wm.jpg
+1078,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0256.jpg
+1079,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0009.jpg
+1080,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504683_20210805_5_2_b3_1_2_13_1_371.jpg
+1081,stale,fresh,False,pepper,banana,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0265.jpg
+1082,stale,fresh,False,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/Unknown 복사본 2.jpeg
+1083,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0252.jpg
+1084,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0065.jpg
+1085,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.37.19 PM.png
+1086,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.44.59 PM.png
+1087,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0154.jpg
+1088,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091008.jpg
+1089,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0307.jpg
+1090,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0133.jpg
+1091,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.00.46 PM.png
+1092,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0136.jpg
+1093,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0019.jpg
+1094,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0219.jpg
+1095,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/26615953-mouldy-rotten-mandarin-orange-fruit-isolated-on-white-background-.jpg
+1096,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0034.jpg
+1097,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091214.jpg
+1098,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0277.jpg
+1099,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.35.38 PM.png
+1100,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0361.jpg
+1101,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0381.jpg
+1102,stale,fresh,False,mandarin,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/rotten-mandarin-oranges-on-the-landfill-400-207256547.jpg
+1103,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0071.jpg
+1104,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0035.jpg
+1105,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504135_20210802_5_2_b3_1_2_13_1_253.jpg
+1106,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0518.jpg
+1107,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0452.jpg
+1108,fresh,fresh,True,broccoli,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0193.jpg
+1109,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0121.jpg
+1110,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0020.jpg
+1111,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0074.jpg
+1112,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0110.jpg
+1113,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.50.19 PM.png
+1114,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0227.jpg
+1115,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0115.png
+1116,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.35.37 PM.png
+1117,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20220530_085145.jpg
+1118,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.26.07 PM.png
+1119,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.20.05 PM.png
+1120,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0449.jpg
+1121,stale,fresh,False,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0099.jpg
+1122,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/557441_20210810_5_1_a7_1_2_13_1_22.jpg
+1123,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0405.jpg
+1124,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0374.jpg
+1125,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094017.jpg
+1126,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/557489_20210811_5_1_a7_1_2_13_1_39.jpg
+1127,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0006.jpg
+1128,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0301.jpg
+1129,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0030.jpg
+1130,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0021.jpg
+1131,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.07.29 PM.png
+1132,fresh,fresh,True,apple,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0049.jpg
+1133,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0534.jpg
+1134,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.24.02 PM.png
+1135,fresh,fresh,True,cherryTomato,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_021.jpg
+1136,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0260.jpg
+1137,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0001.jpg
+1138,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0093.jpg
+1139,fresh,fresh,True,apple,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0020.jpg
+1140,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0007.jpg
+1141,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.33.05 PM.png
+1142,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.01.01 PM.png
+1143,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0612.jpg
+1144,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0263.jpg
+1145,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.26.41 PM.png
+1146,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.55.28 PM.png
+1147,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0378.jpg
+1148,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0112.jpg
+1149,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.18.41 PM.png
+1150,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.26.14 PM.png
+1151,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0303.jpg
+1152,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_090913.jpg
+1153,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0003 (2).jpg
+1154,fresh,fresh,True,grape,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0198.jpg
+1155,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0051.jpg
+1156,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.08.48 AM.png
+1157,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0119.jpg
+1158,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0359.jpg
+1159,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.19.17 AM.png
+1160,fresh,fresh,True,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0167.jpg
+1161,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/0389.jpg
+1162,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.36.31 PM.png
+1163,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0229.jpg
+1164,fresh,fresh,True,pepper,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0355.jpg
+1165,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0014.jpg
+1166,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0390.jpg
+1167,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0252.jpg
+1168,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0204.jpg
+1169,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0038.jpg
+1170,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0133.jpg
+1171,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/Day2.jpg_0_312.jpg
+1172,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.04.34 AM.png
+1173,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.44.55 PM.png
+1174,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.07.10 AM.png
+1175,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0096.jpg
+1176,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0337.jpg
+1177,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0037.jpg
+1178,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0165.jpg
+1179,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0027.jpg
+1180,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0429.jpg
+1181,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0003.jpg
+1182,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0115.jpg
+1183,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0246.jpg
+1184,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.01.29 PM.png
+1185,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0016.jpg
+1186,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0106.jpg
+1187,stale,fresh,False,pepper,banana,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0017.jpg
+1188,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.42.00 PM.png
+1189,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.46.43 PM.png
+1190,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0303.jpg
+1191,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0111.jpg
+1192,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.06.07 PM(1).png
+1193,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0056.jpg
+1194,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0421.jpg
+1195,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.14.48 PM.png
+1196,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0232.jpg
+1197,stale,fresh,False,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/naver_0001.jpg
+1198,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.17.14 PM.png
+1199,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091440.jpg
+1200,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.55.42 PM.png
+1201,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.07.32 AM.png
+1202,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0297.jpg
+1203,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0225.jpg
+1204,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.00.40 PM.png
+1205,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0269.jpg
+1206,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0074.jpg
+1207,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.24.04 PM.png
+1208,fresh,fresh,True,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0121.jpg
+1209,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_046.jpg
+1210,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.50.12 PM.png
+1211,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0299.jpg
+1212,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0148.jpg
+1213,stale,fresh,False,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0081.jpg
+1214,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0066.jpg
+1215,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504426_20210805_5_2_b3_1_2_13_1_114.jpg
+1216,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.45.55 PM.png
+1217,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0186.jpg
+1218,fresh,fresh,True,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0208.jpg
+1219,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0024.jpg
+1220,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0103.jpg
+1221,stale,fresh,False,strawberry,capsicum,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0108.jpg
+1222,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.33.47 PM.png
+1223,stale,fresh,False,broccoli,banana,False,/Users/jongya/Desktop/data/data/archive/stale_broccoli/google_0046.jpg
+1224,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.31.39 PM.png
+1225,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0259.jpg
+1226,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094012.jpg
+1227,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.05.54 PM(1).png
+1228,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0261.jpg
+1229,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0228.jpg
+1230,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0211.jpg
+1231,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094154.jpg
+1232,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0019.jpg
+1233,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.45.44 PM.png
+1234,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0163.jpg
+1235,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.06.59 PM.png
+1236,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0369.jpg
+1237,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0173.jpg
+1238,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0071.jpg
+1239,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0051.jpg
+1240,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.13.48 PM.png
+1241,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0249.jpg
+1242,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0130.jpg
+1243,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0175.jpg
+1244,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0130.jpg
+1245,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0215.png
+1246,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0222.jpg
+1247,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0030.jpg
+1248,fresh,fresh,True,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0363.jpg
+1249,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0152.jpg
+1250,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0127.jpg
+1251,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.01.10 PM.png
+1252,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/P7090015.jpg
+1253,fresh,fresh,True,cherryTomato,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0252.jpg
+1254,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0117.jpg
+1255,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0288.jpg
+1256,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.23.13 PM.png
+1257,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094148.jpg
+1258,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.19.35 PM.png
+1259,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0090.jpg
+1260,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0169.jpg
+1261,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0104.jpg
+1262,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.14.07 PM.png
+1263,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/naver_0001.png
+1264,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0352.jpg
+1265,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0012 (2).jpg
+1266,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.55.41 PM.png
+1267,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0053.jpg
+1268,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0018.jpg
+1269,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/0998.jpg
+1270,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.19.36 AM.png
+1271,stale,fresh,False,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/images.jpeg
+1272,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.51.13 PM.png
+1273,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.55.48 PM.png
+1274,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.04.05 PM.png
+1275,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0274.jpg
+1276,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.56.56 PM.png
+1277,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.37.25 PM.png
+1278,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0032.jpg
+1279,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0026.jpg
+1280,stale,fresh,False,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/Copy of IMG_20200730_170232.jpg_0_970.jpg
+1281,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0044.jpg
+1282,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/naver_0203.jpg
+1283,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0194.jpg
+1284,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0373.jpg
+1285,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0249.jpg
+1286,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0047.jpg
+1287,stale,fresh,False,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0039.jpg
+1288,fresh,fresh,True,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0341.jpg
+1289,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/490215_20211001_5_0_0_1_2_12_0_0.jpg
+1290,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0445.jpg
+1291,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.50.43 PM.png
+1292,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0458.jpg
+1293,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091435.jpg
+1294,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0290.jpg
+1295,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0039.jpg
+1296,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.08.00 PM.png
+1297,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0140.jpg
+1298,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.37.52 PM.png
+1299,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.13.19 AM.png
+1300,stale,fresh,False,capsicum,capsicum,True,/Users/jongya/Desktop/data/data/archive/stale_capsicum/WhatsApp Image 2020-11-07 at 11.43.16 PM.jpeg_0_90.jpg
+1301,fresh,fresh,True,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0078.jpg
+1302,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0033.jpg
+1303,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/557000_20210803_5_1_a7_1_2_13_1_5.jpg
+1304,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0214.jpg
+1305,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0010.jpg
+1306,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0236.jpg
+1307,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0290.jpg
+1308,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0177.jpg
+1309,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/505013_20210809_5_2_b3_1_2_13_1_20210809_5_2_b3_1_2_13_1_237.jpg
+1310,fresh,fresh,True,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/Tre_010.jpg
+1311,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0247.jpg
+1312,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0004.jpg
+1313,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0183.jpg
+1314,fresh,fresh,True,banana,banana,True,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0038.jpg
+1315,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0187.jpg
+1316,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.29.44 PM.png
+1317,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0024.jpg
+1318,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0174.jpg
+1319,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0044.jpg
+1320,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 3.04.58 PM.png
+1321,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0051.jpg
+1322,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0316.jpg
+1323,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0108.jpg
+1324,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.09.16 PM.png
+1325,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.51.29 PM.png
+1326,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 4.59.49 PM.png
+1327,stale,fresh,False,banana,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.11.27 PM.png
+1328,fresh,fresh,True,pepper,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0495.jpg
+1329,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0007 (2).jpg
+1330,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0114.jpg
+1331,stale,fresh,False,mandarin,apple,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/depositphotos_37916639-stock-photo-rotten-mandarin.jpg
+1332,fresh,fresh,True,cherryTomato,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0386.jpg
+1333,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.16.16 PM.png
+1334,stale,fresh,False,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_mandarin/145432129-rotten-mandarin-oranges-on-the-landfill-spoilt-citrus-products-rotten-tropical-fruit-.jpg
+1335,stale,fresh,False,orange,banana,False,/Users/jongya/Desktop/data/data/archive/stale_orange/naver_0108.jpg
+1336,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0031.jpg
+1337,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0394.jpg
+1338,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0044.jpg
+1339,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0032.jpg
+1340,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.05.18 PM.png
+1341,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.13.10 PM.png
+1342,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.33.11 PM.png
+1343,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0075.jpg
+1344,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/naver_0102.jpg
+1345,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0146.jpg
+1346,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.27.22 PM.png
+1347,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.48.46 PM.png
+1348,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/556685_20210729_5_1_a7_1_2_13_1_244.jpg
+1349,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.55.23 PM.png
+1350,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.18.26 PM.png
+1351,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0228.jpg
+1352,fresh,fresh,True,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0329.jpg
+1353,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.29.21 PM.png
+1354,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.46.22 PM.png
+1355,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.23.15 PM.png
+1356,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.26.44 PM.png
+1357,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0573.jpg
+1358,stale,fresh,False,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0331.jpg
+1359,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.17.57 PM.png
+1360,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0293.jpg
+1361,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20200824_182336.jpg_0_368.jpg
+1362,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.12.14 PM.png
+1363,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0206.jpg
+1364,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.00.11 PM.png
+1365,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0005.jpg
+1366,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.34.07 PM.png
+1367,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.54.55 PM.png
+1368,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.49.37 PM.png
+1369,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0343.jpg
+1370,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.21.44 PM.png
+1371,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.41.48 PM.png
+1372,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/naver_0056.jpg
+1373,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0241.jpg
+1374,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0448.jpg
+1375,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/Day1A.jpg_0_455.jpg
+1376,fresh,fresh,True,broccoli,broccoli,True,/Users/jongya/Desktop/data/data/archive/fresh_broccoli/google_0328.jpg
+1377,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094241.jpg
+1378,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/556573_20210729_5_1_a7_1_2_13_1_132.jpg
+1379,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0158.jpg
+1380,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0234.jpg
+1381,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0049.jpg
+1382,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/505133_20210810_5_2_b3_1_2_13_1_27.jpg
+1383,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0288.jpg
+1384,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0040.jpg
+1385,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0008.jpg
+1386,fresh,fresh,True,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0143.jpg
+1387,stale,fresh,False,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.30.11 PM.png
+1388,fresh,fresh,True,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/DSCN4157.jpg_0_69.jpg
+1389,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220601_094302.jpg
+1390,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.43.07 PM.png
+1391,stale,fresh,False,orange,capsicum,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.30.06 PM.png
+1392,stale,fresh,False,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_091024.jpg
+1393,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.59.28 PM.png
+1394,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0027.jpg
+1395,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0316.jpg
+1396,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0079.jpg
+1397,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.19.08 PM.png
+1398,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0332.jpg
+1399,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.20.26 PM.png
+1400,fresh,fresh,True,capsicum,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_capsicum/IMG_20220530_085234.jpg
+1401,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/557567_20210813_5_1_a7_1_2_13_1_21.jpg
+1402,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0161.jpg
+1403,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.35.10 PM.png
+1404,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0148.jpg
+1405,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/490269_20211001_5_0_0_1_2_12_0_54.jpg
+1406,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0242.jpg
+1407,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0194.jpg
+1408,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0289.jpg
+1409,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0263.jpg
+1410,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.46.48 PM.png
+1411,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.20.15 AM.png
+1412,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0056.jpg
+1413,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0172.jpg
+1414,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0346.jpg
+1415,stale,fresh,False,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_orange/naver_0248.jpg
+1416,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.52.03 PM(1).png
+1417,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0365.jpg
+1418,stale,fresh,False,cherryTomato,banana,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/photo-spoiled-cherry-tomato-rotten-cherry-tomatoes-bowl-copy-space-175227907.jpg
+1419,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0582.jpg
+1420,fresh,fresh,True,grape,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0280.jpg
+1421,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0185.jpg
+1422,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.25.54 PM.png
+1423,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.50.25 PM.png
+1424,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0290.jpg
+1425,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0237.jpg
+1426,stale,fresh,False,pepper,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0393.jpg
+1427,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/google_0560.jpg
+1428,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.00.06 AM.png
+1429,stale,fresh,False,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/google_0038.jpg
+1430,fresh,fresh,True,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0300.jpg
+1431,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.10.21 PM.png
+1432,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/naver_0061.jpg
+1433,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0437.jpg
+1434,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 10.00.49 PM.png
+1435,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0209.jpg
+1436,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0149.jpg
+1437,stale,fresh,False,orange,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/stale_orange/naver_0344.jpg
+1438,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.14.53 AM.png
+1439,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0314.jpg
+1440,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0301.jpg
+1441,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.29.26 PM.png
+1442,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.02.24 PM.png
+1443,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.37.53 PM.png
+1444,stale,fresh,False,grape,apple,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0176.jpg
+1445,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.10.53 PM.png
+1446,fresh,fresh,True,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0146.jpg
+1447,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.16.44 PM.png
+1448,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0075.jpg
+1449,stale,fresh,False,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0386.jpg
+1450,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.18.43 PM.png
+1451,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.16.08 AM.png
+1452,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0117.jpg
+1453,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.09.29 PM.png
+1454,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.44.05 PM.png
+1455,fresh,fresh,True,strawberry,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0303.jpg
+1456,fresh,fresh,True,strawberry,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_strawberry/naver_0244.jpg
+1457,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/naver_0194.jpg
+1458,fresh,fresh,True,pepper,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0256.jpg
+1459,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.44.16 PM.png
+1460,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0245.jpg
+1461,stale,fresh,False,cherryTomato,apple,False,/Users/jongya/Desktop/data/data/archive/stale_cherryTomato/Blistered Tomatoes and Capers.jpg
+1462,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-13 at 12.12.04 AM.png
+1463,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/Screen Shot 2018-06-12 at 11.52.03 PM.png
+1464,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.12.27 PM.png
+1465,fresh,fresh,True,cherryTomato,capsicum,False,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/DSCN4114.jpg_0_925.jpg
+1466,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/google_0016.jpg
+1467,fresh,fresh,True,apple,apple,True,/Users/jongya/Desktop/data/data/archive/fresh_apple/Screen Shot 2018-06-08 at 5.11.41 PM.png
+1468,fresh,fresh,True,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/google_0045.jpg
+1469,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-08 at 2.27.15 PM.png
+1470,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/504728_20210805_5_2_b3_1_2_13_1_416.jpg
+1471,stale,fresh,False,strawberry,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_strawberry/google_0367.jpg
+1472,stale,fresh,False,banana,banana,True,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.50.26 PM.png
+1473,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.38.13 PM.png
+1474,stale,fresh,False,grape,banana,False,/Users/jongya/Desktop/data/data/archive/stale_grape/google_0272.jpg
+1475,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 8.49.41 PM.png
+1476,stale,fresh,False,capsicum,apple,False,/Users/jongya/Desktop/data/data/archive/stale_capsicum/IMG_20220607_090900.jpg
+1477,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0233.jpg
+1478,stale,fresh,False,orange,apple,False,/Users/jongya/Desktop/data/data/archive/stale_orange/Screen Shot 2018-06-12 at 11.42.56 PM.png
+1479,stale,fresh,False,banana,apple,False,/Users/jongya/Desktop/data/data/archive/stale_banana/Screen Shot 2018-06-12 at 9.01.51 PM.png
+1480,stale,fresh,False,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/stale_pepper/556605_20210729_5_1_a7_1_2_13_1_164.jpg
+1481,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0045.jpg
+1482,stale,fresh,False,apple,apple,True,/Users/jongya/Desktop/data/data/archive/stale_apple/Screen Shot 2018-06-07 at 2.17.25 PM.png
+1483,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0019.jpg
+1484,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.58.07 PM.png
+1485,fresh,fresh,True,orange,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_orange/naver_0166.jpg
+1486,fresh,fresh,True,grape,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0447.jpg
+1487,fresh,fresh,True,pepper,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_pepper/naver_0446.jpg
+1488,fresh,fresh,True,banana,apple,False,/Users/jongya/Desktop/data/data/archive/fresh_banana/Screen Shot 2018-06-12 at 9.47.39 PM.png
+1489,fresh,fresh,True,mandarin,cherryTomato,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0018.jpg
+1490,fresh,fresh,True,cherryTomato,cherryTomato,True,/Users/jongya/Desktop/data/data/archive/fresh_cherryTomato/naver_0169.jpg
+1491,fresh,fresh,True,mandarin,banana,False,/Users/jongya/Desktop/data/data/archive/fresh_mandarin/naver_0170.jpg
+1492,fresh,fresh,True,grape,broccoli,False,/Users/jongya/Desktop/data/data/archive/fresh_grape/google_0219.jpg
