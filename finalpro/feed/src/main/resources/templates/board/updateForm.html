@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+   <div th:replace="layout/header.html :: fragment-header"></div>
+   <script type="text/javascript" src="/js/board.js"></script>
+</head>
+<body>
+<div th:replace="layout/navbar.html :: fragment-nav"></div>
+
+<div class="container">
+   <form>
+      <input type="hidden" id="id"  th:value="${updateBoard.getId()}">
+      <div class="form-group">
+         <input th:value="${updateBoard.getTitle()}" type="text"class="form-control" placeholder="Enter title" id="title">
+      </div>
+
+      <div class="form-group">
+         <textarea th:utext="${updateBoard.getContent()}" class="form-control summernote" rows="5" id="content"></textarea>
+      </div>
+
+      <button id="btn-update" class="btn btn-primary" >수정</button>
+      <button id="btn-list" class="btn btn-primary" onclick="location.href='/board/feed'">목록</button>
+   </form>
+</div>
+<script>
+   $('.summernote').summernote({
+      placeholder: '내용을 입력해주세요',
+      tabsize: 2,
+      height: 350
+   });
+</script>
+<footer th:replace="layout/footer.html :: fragment-footer"></footer>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="context-path" th:content="@{/}"/>
+    
+    <title>Happygram Blog</title>
+    
+    <!--  Common header -->
+    <th:block th:include="common/include-link"></th:block>
+    <!-- Custom styles for sidebar -->
+    <link th:href="@{/css/sidebar.css}" rel="stylesheet">
+</head>
+
+<body>
+    <span>[[${sugResult}]]</span>
+    <h1> 푸리(puri) 블로그 </h1> <br/>
+
+    <!-- Common script -->
+    <th:block th:include="common/include-script"></th:block>
+ 
+    <div class="wrapper">
+        <!-- Side Bar -->
+        <nav th:replace="common/common-sidebar"></nav>
+        <div id="content">
+            <!-- Page Header -->
+            <header th:replace="common/common-header"></header>
+            
+            <!-- Main Content -->
+            <div th:replace="${template}"></div>
+            
+            <hr>
+            
+            <!-- Footer -->
+            <footer th:replace="common/common-footer"></footer>
+        </div>
+    </div>
+</body>
+
+</html>

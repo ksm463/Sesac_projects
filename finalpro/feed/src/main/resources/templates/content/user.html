@@ -1,0 +1,25 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head> <!-- 해당  페이지의 메타정보가 포함된다 -->
+	<!-- header fragment -->
+	<div th:replace="layout/header.html :: fragment-header"></div>
+</head>
+<body>
+
+<!-- navbar fragment -->
+<div th:replace="layout/navbar.html :: fragment-nav"></div>
+<div layout:fragment="content" class="content">
+	<form action="user/join1" method="post">
+		<div>
+			userid : <input type="text" name="userid"><br/>
+			username : <input type="text" name="username"><br/>
+			password : <input type="text" name="password"><br/>
+			email : <input type="text" name="email"><br/><p/>
+			<input type="submit">
+		</div>
+	</form>
+</div>
+<h3>결과</h3>
+<span>[[${userId}]]</span>
+</body>
+</html>

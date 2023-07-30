@@ -1,0 +1,131 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+        <title> 추천 서비스 </title>
+        <!-- header fragment -->
+        <div th:replace="layout/header.html :: fragment-header"></div>
+        <meta charset="utf-8">
+</head>
+
+<body>
+    <!-- navbar fragment -->
+    <div th:replace="layout/navbar.html :: fragment-nav"></div>
+    <form action="recommend" method="post">
+        <table border="1">
+        <tr>
+            <td><h3> 난이도 </h3></td>
+            <td><h3> 햇빛필요도 </h3></td>
+            <td><h3> 적정온도 </h3></td>
+            <td><h3> 최저온도 </h3></td>
+            <td><h3> 습도 </h3></td>
+            <td><h3> 물주기 </h3></td>
+        </tr>
+        <tr>
+            <td>
+                <Select name="rcmMngDemand">
+                    <option value="1">쉬움</option>
+                    <option value="2">보통</option>
+                    <option value="3">어려움</option>
+                    <option value="4">전문가용</option>
+                </Select>
+            </td>
+            <td>
+                <Select name="rcmLightDemand">
+                    <option value="1">상관없음</option>
+                    <option value="2">중간 이하</option>
+                    <option value="3">중간</option>
+                    <option value="4">중간 이상</option>
+                    <option value="5">많은 햇빛</option>
+                </Select>
+            </td>
+            <td>
+                <Select name="rcmOpTemp">
+                    <option value="1">10~15℃</option>
+                    <option value="2">16~20℃</option>
+                    <option value="3">21~25℃</option>
+                </Select>
+            </td>
+            <td>
+                <Select name="rcmWinTemp">
+                    <option value="1">0℃</option>
+                    <option value="2">5℃</option>
+                    <option value="3">7℃</option>
+                    <option value="4">10℃</option>
+                    <option value="5">13℃</option>
+                </Select>
+            </td>
+            <td>
+                <Select name="rcmHumdity">
+                    <option value="1">40% 미만</option>
+                    <option value="2">40 ~ 70%</option>
+                    <option value="3">70% 이상</option>
+                </Select>
+            </td>
+            <td>
+                <Select name="rcmWatering">
+                    <option value="1">흙 대부분이 말랐을 때 주기</option>
+                    <option value="2">흙 표면이 말랐을 때 주기</option>
+                    <option value="3">흙을 촉촉하게 유지하기</option>
+                    <option value="4">물에 잠길 정도로 물 많이 주기</option>
+                </Select>
+            </td>
+        </tr>
+        </table>
+        <p/>
+        <input type="submit" value="전송"/>
+        <input type="reset" value="취소"/>
+    </form>
+    <h3>결과</h3>
+    <span>[[${rcmResult}]]</span></br>
+    <a href link="https://www.nongsaro.go.kr/portal/ps/psz/psza/contentMain.ps?menuId=PS00376&pageUnit=8" target="_blank">입관상 식물</a><br><br>
+
+    <h3>항목별 안내</h3>
+	<h4>1 : 키우기 난이도</h4>
+	<ul>
+		<li>이 식물이 얼마나 키우기 어려운지를 말해요.</li>
+		<li>쉬움. 초보자용.</li>
+		<li>보통. 식물을 키워본 적 있음.</li>
+		<li>어려움. 식물을 오래 키워본 사람.</li>
+		<li>전문가용. 특별 관리 요구 대상.</li>
+	</ul>
+    <h4>2. 햇빛필요도</h4>
+	<ul>
+		<li>햇빛이 필요한 양을 말해요. </li>
+		<li>햇빛에 관계없이 잘 자람</li>
+		<li>중간 이하의 햇빛</li>
+		<li>중간 정도의 햇빛</li>
+		<li>중간 이상의 햇빛</li>
+		<li>많은 햇빛이 필요</li>
+	</ul>
+    <h4>3. 적정온도</h4>
+	<ul>
+		<li>식물이 가장 잘 자라는 온도를 말해요. </li>
+		<li>10~15℃</li>
+		<li>16~20℃</li>
+		<li>21~25℃</li>
+	</ul>
+    <h4>4. 최저온도</h4>
+	<ul>
+		<li>이 밑으로 내려가면 안 되는 온도에요. </li>
+		<li>0℃</li>
+		<li>5℃</li>
+		<li>7℃</li>
+		<li>10℃</li>
+		<li>13℃</li>
+	</ul>
+    <h4>5. 습도</h4>
+	<ul>
+		<li>식물이 가장 잘 자라는 습도를 말해요. </li>
+		<li>40% 미만</li>
+		<li>40 ~ 70%</li>
+		<li>70% 이상</li>
+	</ul>
+    <h4>6. 물주기</h4>
+	<ul>
+		<li>물을 주는 주기를 말해요. 봄 기준이에요.</li>
+		<li>흙 대부분이 말랐을 때 주기</li>
+		<li>흙 표면이 말랐을 때 주기</li>
+		<li>흙을 촉촉하게 유지하기</li>
+		<li>물에 잠길 정도로 물 많이 주기</li>
+	</ul>  
+</body>
+</html>

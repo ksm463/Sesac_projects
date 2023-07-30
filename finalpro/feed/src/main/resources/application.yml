@@ -1,0 +1,50 @@
+server:
+  port: 8000
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+spring:
+  # mvc:
+  #   view:
+  #     prefix: /WEB-INF/views/
+  #     suffix: .jsp
+  jpa:
+    hibernate:
+      ddl-auto: none
+      #jpa 가 사용하는 기본 number 전략 사용 X 프로젝트에서 연결된 DB 의 넘버린 전략을 따라감
+      use-new-id-generator-mappings: false
+    show_sql: true
+    database: mysql
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    properties:
+      hibernate:
+        format_sql: true
+      
+  devtools:
+    livereload:
+      enabled: true
+  thymeleaf:
+    cache: false
+    prefix: classpath:templates/
+    suffix: .html
+    enabled: true
+
+# jdbc
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://puri-db.c0z1pznbpt0r.us-east-2.rds.amazonaws.com:3306/puri
+    username: root
+    password: ssac12#$
+
+mybatis:
+#   config: mybatis/mybatis-config.xml
+  mapper-locations: classpath:mapper/**/*.xml
+
+# hibernate logging
+logging :
+  level: 
+    org:
+      hibernate: info

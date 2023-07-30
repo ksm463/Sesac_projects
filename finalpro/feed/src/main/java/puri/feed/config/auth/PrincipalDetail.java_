@@ -1,0 +1,68 @@
+package puri.feed.config.auth;
+
+import puri.feed.entity.User;
+import lombok.Getter;
+import org.springframework.security.core.GrantedAuthority;
+import org.springframework.security.core.userdetails.UserDetails;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+@Getter
+public class  PrincipalDetail implements UserDetails {
+
+    private User user; // 콤포지션(extends 처럼 상속이 아닌 필드에 가지고 있을 경우)
+
+    public PrincipalDetail(User user) {
+        this.user = user;
+    }
+
+    public String getUserid() {
+        return user.getUserid();
+    }
+
+    @Override
+    public String getPassword() {
+        return user.getPassword();
+    }
+
+    @Override
+    public String getUsername() {
+        return user.getUsername();
+    }
+
+    // 계정 만료 true : 만료안됨 / false : 만료
+    @Override
+    public boolean isAccountNonExpired() {
+        return true;
+    }
+
+    // 계정 잠금 상태 true : 잠금x / false : 잠금O
+    @Override
+    public boolean isAccountNonLocked() {
+        return true;
+    }
+
+
+    // 비밀번호 만료 true : 만료안됨 / false : 만료
+    @Override
+    public boolean isCredentialsNonExpired() {
+        return true;
+    }
+
+    // 계정 활성화
+    @Override
+    public boolean isEnabled() {
+        return true;
+    }
+
+
+    @Override
+    public Collection<? extends GrantedAuthority> getAuthorities() {
+        Collection<GrantedAuthority> collectors = new ArrayList<>();
+        collectors.add(() -> {
+            return "ROLE_" + user.getRole(); // ROLE_USER , ROLE_ADMIN
+        });
+        return collectors;
+    }
+}

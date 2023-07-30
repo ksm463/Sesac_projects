@@ -1,0 +1,26 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head> <!-- 해당  페이지의 메타정보가 포함된다 -->
+</head>
+<body>
+<div layout:fragment="content" class="content">
+	<h2>This is Content</h2>
+	<hr>
+	<table border="1">
+		<tr>
+			<th>id</th>
+			<th>name</th>
+			<th>email</th>
+		</tr>
+		
+		<th:block th:each="salary : ${salaryList}">
+			<tr>
+				<td th:text="${ salary.id }"></td>
+				<td th:text="${ salary.name }"></td>
+				<td th:text="${ salary.email }"></td>
+			</tr>
+		</th:block>
+	</table>
+</div>
+</body>
+</html>

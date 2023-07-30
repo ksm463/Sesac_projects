@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FeedApplicationTests",
+            "request": "launch",
+            "mainClass": "puri.feed.FeedApplicationTests",
+            "projectName": "feed"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-FeedApplication<feed>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "puri.feed.FeedApplication",
+            "projectName": "feed",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

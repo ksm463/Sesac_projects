@@ -1,0 +1,28 @@
+<html xmlns:th="http://www.thymeleaf.org" >
+<head>
+   <!-- header fragment -->
+   <div th:replace="layout/header :: fragment-header"></div>
+</head>
+<body>
+
+<!-- navbar fragment -->
+<div th:replace="layout/navbar :: fragment-nav"></div>
+
+<div class="container">
+    <div><h1> 최신 글 </h1></div>
+    <div class="card m-2" th:each="board : ${boardList.content}">
+        <div class="card-body">
+            <h4 class="card-title" th:text="${board.getTitle()}">게시글 제목</h4>
+            <strong th:text="|작성자 : ${board.getUser().getUserid()}|">작성자 : 김OO</strong>
+            <p th:text="|날짜 : ${board.getCreateDate()}|">20xx-xx-xx xx:xx:xx.xx</p>
+            <p th:text="|조회수 : ${board.getCount()}|">132</p>
+            <a th:href="@{|/board/${board.id}|}" class="btn btn-primary">상세보기</a>
+        </div>
+    </div>
+</div>
+
+
+<!-- footer fragment -->
+<div th:replace="layout/footer :: fragment-footer"></div>
+</body>
+</html>

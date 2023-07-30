@@ -1,0 +1,29 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+       <!-- header fragment -->
+        <div th:replace="layout/header.html :: fragment-header"></div>
+        <title> 식물 채팅 </title>
+        <meta charset="utf-8">
+</head>
+
+<body>
+    <!-- navbar fragment -->
+    <div th:replace="layout/navbar.html :: fragment-nav"></div>
+    <form action="chat" method="post">
+        <table border="1">
+        <tr>
+            <td><label for="chatMsg">메세지:</label></td>
+            <td><input type="text" id="message" name="cmsg" size="60"></td>
+        </tr>
+        </table>
+        <p/>
+        <input type="submit" value="전송"/>
+        <input type="reset" value="취소"/>
+    </form>
+    <h3>결과</h3>
+    <span>[[${Result}]]</span>
+    <!-- footer fragment -->
+<div th:replace="layout/footer :: fragment-footer"></div>
+</body>
+</html>

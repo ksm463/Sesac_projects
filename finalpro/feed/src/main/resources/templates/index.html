@@ -1,0 +1,21 @@
+<html xmlns:th="http://www.thymeleaf.org" >
+<head>
+   <!-- header fragment -->
+   <div th:replace="layout/header :: fragment-header"></div>
+</head>
+<body>
+
+<!-- navbar fragment -->
+<div th:replace="layout/navbar :: fragment-nav"></div>
+
+<div class="container">
+    <div><h1> 식물일기 푸리</h1></div>
+    <img src="./images/puri_main.jpg"></br>
+    <!-- <span th:utext="${returnMsg}">메세지</span> -->
+
+</div>
+
+<!-- footer fragment -->
+<div th:replace="layout/footer :: fragment-footer"></div>
+</body>
+</html>

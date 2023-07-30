@@ -1,0 +1,41 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head> <!-- 해당  페이지의 메타정보가 포함된다 -->
+	<!-- header fragment -->
+	<div th:replace="layout/header.html :: fragment-header"></div>
+</head>
+<body>
+<!-- navbar fragment -->
+<div th:replace="layout/navbar.html :: fragment-nav"></div>
+<div layout:fragment="content" class="content">
+	<hr>
+	<table border="1">
+		<tr>
+			<th>id</th>
+			<th>user id</th>
+			<th>password</th>
+			<th>name</th>
+			<th>email</th>
+			<th>role</th>
+			<th>create date </th>
+		</tr>
+		
+		<th:block th:each="user : ${userList}">
+			<tr>
+				<td th:text="${ user.id }"></td>
+				<td th:text="${ user.userid }"></td>
+				<td th:text="${ user.password}"></td>
+				<td th:text="${ user.username }"></td>
+				<td th:text="${ user.email }"></td>
+				<td th:text="${ user.role }"></td>
+				<td th:text="${ user.create_date }"></td>
+				<!-- <td th:text="${ user.registDatetime }"></td> -->
+				<!-- <td th:text="${ user.updateDatetime }"></td> -->
+			</tr>
+		</th:block>
+	</table>
+</div>
+<!-- footer fragment -->
+<div th:replace="layout/footer :: fragment-footer"></div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" >
+<head>
+  <title> puri chatbot </title>
+  <!-- header fragment -->
+  <div th:replace="layout/header.html :: fragment-header"></div>
+  <link rel="stylesheet" type="text/css" href="css/style.css" /></link>
+  <meta charset="utf-8">
+  <script type="text/javascript" src="/js/script.js"></script>
+</head>
+<body>
+  <!-- navbar fragment -->
+  <div th:replace="layout/navbar.html :: fragment-nav"></div>
+ 
+  <div id="header">
+    <h1> puri chatbot </h1>
+  </div>
+
+
+  <div id="container"></div>
+
+  <div id="controls">
+    <textarea id="textbox" placeholder="Enter Your Message Here...."></textarea>
+    <button id="send">Send</button>
+    <br><br><br>
+    <input checked type="checkbox" id="enter">
+    <label> Send On Enter </label>
+    </input>
+    <!-- <div id="resultDiv">
+      <p th:if="${msg}!=null" th:text="${msg}"></p>
+    </div> -->
+  </div>
+
+</body>
+
+</html>
